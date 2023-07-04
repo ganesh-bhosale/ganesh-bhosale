@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Selenium Test Automation Framework**
 
-- 💬 Ask me about **Selenium, Functional Testing**
+- 💬 Ask me about **Selenium, Automation & Functional Testing, RPA**
 
 - 📫 How to reach me **ganeshbhosale963@gmail.com**
 
